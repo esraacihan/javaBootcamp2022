@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/arkadasSayi/arkadasSayi.iml" filepath="$PROJECT_DIR$/week1hw2/arkadasSayi/arkadasSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/week1hw2/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/conditions/conditions.iml" filepath="$PROJECT_DIR$/week1hw2/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/week1hw2/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaBootcamp2022.iml" filepath="$PROJECT_DIR$/.idea/javaBootcamp2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/week1hw2/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/week1hw2/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/week1hw2/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/week1hw2/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/week1hw2/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1/oop1.iml" filepath="$PROJECT_DIR$/oop1/oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/week1hw2/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/week1hw2/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/week1hw2/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/week1hw2/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/week1hw2/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/week1hw2/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1hw2/variables/variables.iml" filepath="$PROJECT_DIR$/week1hw2/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
