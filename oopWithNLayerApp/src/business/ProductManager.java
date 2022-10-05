@@ -25,7 +25,7 @@ public class ProductManager {
 
         productDao.add(product);
 
-        for (Logger logger : loggers){
+        for (Logger logger : loggers){//database,file,mail
             logger.log(product.getName());
         }
 
