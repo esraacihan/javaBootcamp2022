@@ -7,6 +7,5 @@ public class Main {
 
         manager.add(product);
 
-
     }
 }
